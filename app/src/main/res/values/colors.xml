@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="radPadYellow">#F8BB32</color>
+    <color name="radPAdYellowDark">#E8AB2E</color>
+    <color name="pureWhite">#FFFFFF</color>
+    <color name="pureBlack">#000000</color>
+    <color name="grayDark">#F7F3ED</color>
+    <color name="grayLight">#F8F8FF</color>
+    <color name="lineColor">#C4C4C4</color>
+    <color name="blue">#399ED4</color>
+</resources>

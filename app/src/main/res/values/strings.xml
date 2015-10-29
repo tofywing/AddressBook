@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Yi\u0027s Test</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button"></string>
+    <string name="title_bar_title">Where I\u0027ve Lived</string>
+    <string name="title_address">ADD ADDRESS</string>
+    <string name="street_address">Street</string>
+    <string name="city_address">City</string>
+    <string name="state_address">State</string>
+    <string name="subtitle_1_address">Monthly rent</string>
+    <string name="rent_address">What I pay</string>
+    <string name="subtitle_2_address">Landlord</string>
+    <string name="landlord_address">Company</string>
+    <string name="option_1_address"> I pay to an individual</string>
+    <string name="option_2_address">I pay to a business</string>
+    <string name="move_in_address">Move-in</string>
+    <string name="move_out_address">Move-out</string>
+    <string name="to_address">to</string>
+    <string name="delete_address">Delete</string>
+    <string name="previous_address">PREVIOUS ADDRESS</string>
+    <string name="current_address">CURRENT ADDRESS</string>
+    <string name="first_name_address">First Name</string>
+    <string name="last_name_address">Last Name</string>
+    <string name="save_address">Save</string>
+    <string name="message_alert">Are you sure you want to delete the address?</string>
+    <string name="cancel_alert">Cancel</string>
+    <string name="sure_alert">I\u0027m Sure</string>
+    <string name="warning_alert">You can\u0027t delete while editing.</string>
+    <string name="confirm_alert">Confirm</string>
+    <string name="saved_toast">Saved</string>
+    <string name="tip">Press \u0022Add\u0022 to add address.</string>
+    <string name="date_hint">dd/mm/yyyy</string>
+    <string name="warning_date">The date is invalid</string>
+    <string name="saved">Saved</string>
+
+</resources>
